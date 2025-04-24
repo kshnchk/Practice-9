@@ -1,0 +1,16 @@
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\bin\Debug\net8.0-windows\SettingsApp.exe
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\bin\Debug\net8.0-windows\SettingsApp.deps.json
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\bin\Debug\net8.0-windows\SettingsApp.runtimeconfig.json
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\bin\Debug\net8.0-windows\SettingsApp.dll
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\bin\Debug\net8.0-windows\SettingsApp.pdb
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\SettingsApp.Form1.resources
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\SettingsApp.csproj.GenerateResource.cache
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\SettingsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\SettingsApp.AssemblyInfoInputs.cache
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\SettingsApp.AssemblyInfo.cs
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\SettingsApp.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\SettingsApp.dll
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\refint\SettingsApp.dll
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\SettingsApp.pdb
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\SettingsApp.genruntimeconfig.cache
+C:\Users\MIX PC\source\repos\Задания FW\SettingsApp\obj\Debug\net8.0-windows\ref\SettingsApp.dll
