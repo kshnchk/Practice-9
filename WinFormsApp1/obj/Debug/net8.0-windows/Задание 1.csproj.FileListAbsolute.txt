@@ -1,0 +1,16 @@
+C:\BD dem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Задание 1.exe
+C:\BD dem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Задание 1.deps.json
+C:\BD dem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Задание 1.runtimeconfig.json
+C:\BD dem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Задание 1.dll
+C:\BD dem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Задание 1.pdb
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Задание 1.csproj.GenerateResource.cache
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Задание 1.AssemblyInfoInputs.cache
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Задание 1.AssemblyInfo.cs
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Задание 1.csproj.CoreCompileInputs.cache
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Задание 1.dll
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\Задание 1.dll
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Задание 1.pdb
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Задание 1.genruntimeconfig.cache
+C:\BD dem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\Задание 1.dll
