@@ -1,0 +1,16 @@
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\bin\Debug\net8.0-windows\TaskListApp.exe
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\bin\Debug\net8.0-windows\TaskListApp.deps.json
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\bin\Debug\net8.0-windows\TaskListApp.runtimeconfig.json
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\bin\Debug\net8.0-windows\TaskListApp.dll
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\bin\Debug\net8.0-windows\TaskListApp.pdb
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\TaskListApp.Form1.resources
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\TaskListApp.csproj.GenerateResource.cache
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\TaskListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\TaskListApp.AssemblyInfoInputs.cache
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\TaskListApp.AssemblyInfo.cs
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\TaskListApp.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\TaskListApp.dll
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\refint\TaskListApp.dll
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\TaskListApp.pdb
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\TaskListApp.genruntimeconfig.cache
+C:\Users\MIX PC\source\repos\Задания FW\TaskListApp\obj\Debug\net8.0-windows\ref\TaskListApp.dll
